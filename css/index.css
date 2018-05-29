@@ -1,0 +1,245 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  position: relative;
+  float: left;
+  z-index: 3;
+  width: 53.5833333333%;
+  height: 820px;
+  margin: 46px 0 0 26.5%;
+  background-color: rgba(181, 174, 174, 0.97);
+  box-shadow: 2px 0 5px 20px rgba(0, 0, 0, .5);
+}
+
+.element {
+  position: relative;
+  float: left;
+}
+
+.point-text {
+  display: block;
+  float: left;
+  margin-left: 6px;
+}
+
+.radio {
+  display: block;
+  float: left;
+  margin-top: 3px;
+}
+
+.radio-label {
+  display: block;
+  position: relative;
+  float: left;
+}
+
+.text {
+  position: relative;
+  float: left;
+  text-align: center;
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._container {
+  width: 15.1692708333%;
+  height: 22px;
+  margin-top: -79px;
+}
+
+.element-1 {
+  clear: both;
+  z-index: 22;
+  width: 5.8333333333%;
+  height: 79px;
+  margin: -104px 0 0 16%;
+  background: url('../images/9f473b997ec1d8b6cb4f2cab99f01e69.jpg') rgba(255, 255, 255, 0.05);
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-2 {
+  z-index: 5;
+  width: 48.25%;
+  height: 284px;
+  margin: -749px 0 0 28.79948%;
+  background: url('../images/product_img_1551.jpg') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: 100% 101%;
+  background-position: center center;
+}
+
+.element-3 {
+  z-index: 6;
+  width: 48.25%;
+  height: 354px;
+  margin: -450px 0 0 28.83073%;
+  background: url('../images/1452709371117778494.jpg'), url('../images/product_img_1551.jpg') rgb(222, 222, 222);
+  background-repeat: no-repeat, no-repeat;
+  background-size: 101% 102%, cover;
+  background-position: center center, center center;
+  background-attachment: scroll, scroll;
+}
+
+.element-4 {
+  z-index: 17;
+  width: 80%;
+  height: 188px;
+  margin: 60px 0 0 10%;
+  background-color: rgba(255, 23, 0, 0.97);
+}
+
+.radio-label-1 {
+  z-index: 7;
+  width: 14.3692708333%;
+  height: 25px;
+  margin: -79px 0 0 28.83073%;
+}
+
+.radio-label-2 {
+  z-index: 8;
+  width: 21.25%;
+  height: 25px;
+  margin: -79px 0 0 28.83073%;
+}
+
+.radio-label-3 {
+  z-index: 12;
+  margin-left: 35.59896%;
+}
+
+.radio-label-4 {
+  z-index: 9;
+  width: 21.25%;
+  height: 25px;
+  margin: -79px 0 0 55.73307%;
+}
+
+.radio-label-5 {
+  z-index: 16;
+  margin-left: 56.79948%;
+}
+
+.radio-label-6 {
+  z-index: 13;
+  width: 14.1830729166%;
+  height: 22px;
+  margin: -67px 0 0 62.79948%;
+}
+
+.text-1 {
+  z-index: 0;
+  width: 80%;
+  min-height: 112px;
+  margin-left: 10.11589%;
+  border: 1px solid rgb(0, 0, 0);
+  background-color: rgba(255, 23, 0, 0.97);
+  font-size: 2.75em;
+  color: rgba(0, 0, 0, 0.97);
+}
+
+.text-2 {
+  clear: both;
+  z-index: 4;
+  width: 46.5833333333%;
+  min-height: 41px;
+  margin: -802px 0 0 30.39974%;
+  font-size: 2.438em;
+  color: rgb(0, 0, 0);
+}
+
+._button-1 {
+  z-index: 1;
+  width: 18.92%;
+  height: 47px;
+  margin-left: 10%;
+  border-top: 1px solid rgb(0, 0, 0);
+  border-right: 1px solid rgb(0, 0, 0);
+  border-bottom: 1px solid rgb(0, 0, 0);
+  background-color: rgba(255, 23, 0, 0.97);
+}
+
+._button-2 {
+  clear: both;
+  z-index: 19;
+  width: 21.25%;
+  height: 47px;
+  margin: -47px 0 0 28.79948%;
+  border-top: 1px solid rgb(0, 0, 0);
+  border-right: 1px solid rgb(0, 0, 0);
+  border-bottom: 1px solid rgb(0, 0, 0);
+  background-color: rgba(255, 23, 0, 0.97);
+}
+
+._button-3 {
+  z-index: 2;
+  width: 21.9166666666%;
+  height: 47px;
+  margin: -47px 0 0 50%;
+  border-top: 1px solid rgb(0, 0, 0);
+  border-right: 1px solid rgb(0, 0, 0);
+  border-bottom: 1px solid rgb(0, 0, 0);
+  background-color: rgba(255, 23, 0, 0.97);
+}
+
+._button-4 {
+  z-index: 20;
+  width: 18.9166666666%;
+  height: 47px;
+  margin: -47px 0 0 71.19922%;
+  border-top: 1px solid rgb(0, 0, 0);
+  border-right: 1px solid rgb(0, 0, 0);
+  border-bottom: 1px solid rgb(0, 0, 0);
+  background-color: rgba(255, 23, 0, 0.97);
+}
+
+._button-1:hover,
+._button-2:hover,
+._button-3:hover,
+._button-4:hover {
+  background-color: rgba(255, 69, 51, 0.97);
+}
+
+._button-1:active,
+._button-2:active,
+._button-3:active,
+._button-4:active {
+  background-color: rgba(204, 18, 0, 0.97);
+}
+
+._button-5 {
+  clear: both;
+  z-index: 18;
+  width: 5.4499999999%;
+  height: 64px;
+  margin: -132px 0 0 71.19922%;
+  border-radius: 64px;
+  background: url('../images/Yn5UDIeY_400x400.jpg') rgba(255, 23, 0, 0.97);
+  background-size: cover;
+  background-position: center center;
+}
+
+._button-6 {
+  z-index: 21;
+  width: 5.4166666666%;
+  height: 64px;
+  margin: -132px 0 0 80.08203%;
+  border-radius: 98px;
+  background: url('../images/odnoklassniki_logo_OneProg.ru__u-240-83e.png'), url('../images/Yn5UDIeY_400x400.jpg') rgb(255, 22, 0);
+  background-repeat: no-repeat, repeat;
+  background-size: cover, cover;
+  background-position: center center, center center;
+  background-attachment: scroll, scroll;
+}
